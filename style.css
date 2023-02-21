@@ -1,0 +1,84 @@
+
+
+.color-nav {
+	background-color: #03001C !important;	
+}
+
+.banner {
+	height: 95vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0,0,0,0.4) ), url('image/ancak.jpg');
+	background-size: cover;
+	font-style: italic;
+	background-position: center;
+}
+
+.hovered-card{
+	transition: .3s;
+}
+.hovered-card:hover{
+	transform: scale(1.1);
+}
+
+strong {
+	color:#F55050;
+	font-family:Arial Rounded MT Bold;
+	font-size:20px;
+}
+
+.content-subscribe{
+	background-color: #03001C;
+}
+
+.banner-produk{
+	height: 75vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0,0,0,0.4) ), url('image/haha.jpg');
+	background-size: cover;
+	font-style: Cursive;
+	background-position: center;
+}
+
+.main-color {
+	background-color: #5B8FB9 !important;	
+}
+
+.image-main{
+	border-radius: 100%;
+	height: 150px;
+	width: 50%;
+}
+
+.banner-about{
+	height: 60vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0,0,0,0.4) ), url('image/ok.jpg');
+	background-size: cover;
+	font-style: Cursive;
+	background-position: center;
+}
+
+.banner-contact{
+	height: 60vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0,0,0,0.4) ), url('image/baby.png');
+	background-size: cover;
+	font-style: Cursive;
+	background-position: center;
+}
+
+.img-cart{
+	width: 170px;
+	height: auto;
+	border: 1px solid #EEEEEE;
+	border-radius: 12px;
+}
+
+.input-jumlah{
+	width: 119px;
+}
+
+.color-tables {
+	background-color: #9DF1DF;
+}
+
+.btn-main-color:hover{
+	background-color: #060047;
+}
+
